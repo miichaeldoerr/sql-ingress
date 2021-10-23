@@ -1,0 +1,171 @@
+[
+    {
+      "Code":"BUG",
+      "Type": "Bug",
+      "Hex": "A8B820",
+      "Pokemon": [
+        {
+          "DexNo": "015",
+          "Name": "Beedrill",
+          "Height": 1,
+          "Weight": 29.5
+        }
+      ]
+    },
+    {
+      "Code":"PSY",
+      "Type": "Psychic",
+      "Hex": "F95587",
+      "Pokemon": [
+        {
+          "DexNo": "096",
+          "Name": "Drowzee",
+          "Height": 1,
+          "Weight": 32.4
+        },
+        {
+          "DexNo": "097",
+          "Name": "Hypno",
+          "Height": 1.6,
+          "Weight": 75.6
+        }
+      ]
+    },
+    {
+      "Code":"POI",
+      "Type": "Poison",
+      "Hex": "A33EA1",
+      "Pokemon": [
+        {
+          "DexNo": "015",
+          "Name": "Beedrill",
+          "Height": 1,
+          "Weight": 29.5
+        },
+        {
+          "DexNo": "001",
+          "Name": "Bulbasaur",
+          "Height": 0.7,
+          "Weight": 6.9
+        },
+        {
+          "DexNo": "002",
+          "Name": "Ivysaur",
+          "Height": 1,
+          "Weight": 13
+        }
+      ]
+    },
+    {
+      "Code":"DRG",
+      "Type": "Dragon",
+      "Hex": "7038F8",
+      "Pokemon": null
+    },
+    {
+      "Code":"ICE",
+      "Type": "Ice",
+      "Hex": "98D8D8",
+      "Pokemon": null
+    },
+    {
+      "Code":"FGT",
+      "Type": "Fighting",
+      "Hex": "C03028",
+      "Pokemon": null
+    },
+    {
+      "Code":"GRS",
+      "Type": "Grass",
+      "Hex": "78C850",
+      "Pokemon": [
+        {
+          "DexNo": "001",
+          "Name": "Bulbasaur",
+          "Height": 0.7,
+          "Weight": 6.9
+        },
+        {
+          "DexNo": "002",
+          "Name": "Ivysaur",
+          "Height": 1,
+          "Weight": 13
+        }
+      ]
+    },
+    {
+      "Code":"WAT",
+      "Type": "Water",
+      "Hex": "6390F0",
+      "Pokemon": null
+    },
+    {
+      "Code":"GRD",
+      "Type": "Ground",
+      "Hex": "E2BF65",
+      "Pokemon": [
+        {
+          "DexNo": "383",
+          "Name": "Groudon",
+          "Height": 11.06,
+          "Weight": 2094.4
+        }
+      ]
+    },
+    {
+      "Code":"FIR",
+      "Type": "Fire",
+      "Hex": "EE8130",
+      "Pokemon": null
+    },
+    {
+      "Code":"ELC",
+      "Type": "Electric",
+      "Hex": "F7D02C",
+      "Pokemon": [
+        {
+          "DexNo": "025",
+          "Name": "Pikachu",
+          "Height": 1.04,
+          "Weight": 13.2
+        },
+        {
+          "DexNo": "145",
+          "Name": "Zapdos",
+          "Height": 5.03,
+          "Weight": 116
+        },
+        {
+          "DexNo": "125",
+          "Name": "Electabuzz",
+          "Height": 1.1,
+          "Weight": 30
+        }
+      ]
+    },
+    {
+      "Code":"FLY",
+      "Type": "Flying",
+      "Hex": "A98FF3",
+      "Pokemon": null
+    },
+    {
+      "Code":"NOR",
+      "Type": "Normal",
+      "Hex": "A8A77A",
+      "Pokemon": [
+        {
+          "DexNo": "052",
+          "Name": "Meowth",
+          "Height": 1.04,
+          "Weight": 9.3
+        },
+        {
+          "DexNo": "143",
+          "Name": "Snorlax",
+          "Height": 2.1,
+          "Weight": 460
+        }
+      ]
+    }
+  ]

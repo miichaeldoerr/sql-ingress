@@ -1,0 +1,15 @@
+[
+    {
+      "Code":"CUSTOM",
+      "Type": "Custom",
+      "Hex": "M99999",
+      "Pokemon": [
+        {
+          "DexNo": "999",
+          "Name": "Michael",
+          "Height": 99.99,
+          "Weight": 99.99
+        }
+      ]
+    }
+  ]
