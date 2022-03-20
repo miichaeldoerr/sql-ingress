@@ -142,7 +142,7 @@ To load the JSON data from the folder 'data', do the following:
 
 Name - Michael Doerr
 
-Email - mike.doerrx@gmail.com
+Email - miichael.doerr@gmail.com
 
 Project Link: [https://github.com/miixel/sql-ingress.git](https://github.com/miixel/sql-ingress.git)
 
